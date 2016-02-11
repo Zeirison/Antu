@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,7 +18,16 @@
    viewBox="0 0 22 22"
    sodipodi:docname="distribute-horizontal-left.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,17 +36,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.841998"
-     inkscape:cx="-6.0434738"
-     inkscape:cy="12.23519"
+     inkscape:cx="1.0934681"
+     inkscape:cy="12.205502"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -108,16 +118,66 @@
      id="layer1"
      transform="translate(1,-1031.3622)">
     <g
-       transform="translate(-379.85714,491.28573)"
-       id="layer1-8"
-       inkscape:label="Capa 1"
-       style="fill:#ffffff;fill-opacity:1">
-      <path
-         id="rect4109"
-         transform="translate(378.85714,540.07647)"
-         d="M 7,3 4,5 7,7 7,3 Z M 9,3 9,7 12,5 9,3 Z m -6,3 0,3 0,6 0,4 1,0 0,-4 6,0 L 10,8 4,8 4,6 3,6 Z m 9,0 0,3 0,8 0,2 1,0 0,-2 6,0 0,-9 -6,0 0,-2 -1,0 z M 4,9 9,9 9,14 4,14 4,9 Z m 9,0 5,0 0,7 -5,0 0,-7 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+       style="fill:#ffffff;fill-opacity:1;enable-background:new"
+       id="g4165"
+       transform="translate(1.9999972,1034.3622)">
+      <g
+         transform="translate(-505.00033,39.003359)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="actions"
+         id="layer12">
+        <g
+           id="g4460"
+           style="fill:#ffffff;fill-opacity:1">
+          <rect
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+             id="rect4438"
+             width="2"
+             height="14"
+             x="505.00034"
+             y="-38.003361" />
+          <rect
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+             id="rect4440"
+             width="5"
+             height="4"
+             x="507.00034"
+             y="-36.003361" />
+          <rect
+             y="-30.003359"
+             x="507.00034"
+             height="4"
+             width="5"
+             id="rect4442"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           id="g4460-6"
+           style="display:inline;fill:#ffffff;fill-opacity:1;enable-background:new"
+           transform="translate(8.9999943,1.748291e-6)">
+          <rect
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+             id="rect4438-7"
+             width="2"
+             height="14"
+             x="505.00034"
+             y="-38.003361" />
+          <rect
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+             id="rect4440-7"
+             width="5"
+             height="4"
+             x="507.00034"
+             y="-36.003361" />
+          <rect
+             y="-30.003359"
+             x="507.00034"
+             height="4"
+             width="5"
+             id="rect4442-1"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>

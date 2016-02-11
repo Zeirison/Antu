@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.841998"
-     inkscape:cx="-13.583902"
-     inkscape:cy="9.9227314"
+     inkscape:zoom="8.420999"
+     inkscape:cx="31.228036"
+     inkscape:cy="14.211447"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -116,27 +116,31 @@
       <path
          id="rect3159-1"
          transform="translate(378.85714,540.07647)"
-         d="M 3,3 3,7 7,7 7,3 3,3 Z M 4,4 6,4 6,6 4,6 4,4 Z"
+         d="M 3,3 3,7 7,7 7,3 Z"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
       <path
          id="rect3159-14"
          transform="translate(378.85714,540.07647)"
-         d="M 3,8 3,19 7,19 7,8 3,8 Z m 1,1 2,0 0,9 -2,0 0,-9 z"
+         d="M 3,8 3,19 7,19 7,8 Z"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
       <path
          id="rect3159-14-0"
          transform="translate(378.85714,540.07647)"
-         d="M 8,3 8,19 14,19 14,3 8,3 Z M 9,4 13,4 13,18 9,18 9,4 Z"
+         d="m 8,3 0,16 6,0 0,-16 z"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
       <path
          id="rect3159-14-0-3"
          transform="translate(378.85714,540.07647)"
-         d="m 15,3 0,16 4,0 0,-16 -4,0 z m 1,1 2,0 0,14 -2,0 0,-14 z"
+         d="m 15,3 0,16 4,0 L 19,4.0166823 19,3 17.99074,3 Z"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
     </g>
   </g>
 </svg>

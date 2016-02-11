@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,7 +18,16 @@
    viewBox="0 0 22 22"
    sodipodi:docname="distribute-horizontal-center.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,18 +35,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.909091"
-     inkscape:cx="9.2965051"
-     inkscape:cy="9.2117163"
+     inkscape:zoom="21"
+     inkscape:cx="1.9645619"
+     inkscape:cy="11.523101"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -108,16 +118,26 @@
      id="layer1"
      transform="translate(1,-1031.3622)">
     <g
-       transform="translate(-379.85714,491.28573)"
-       id="layer1-1"
-       inkscape:label="Capa 1"
-       style="fill:#ffffff;fill-opacity:1">
-      <path
-         id="rect4109-1"
-         transform="translate(378.85714,540.07647)"
-         d="M 9,3 6,5 9,7 9,3 Z m 4,0 0,4 3,-2 -3,-2 z m -7,3 0,2 -3,0 0,7 3,0 0,4 1,0 0,-4 3,0 L 10,8 7,8 7,6 6,6 Z m 9,0 0,2 -3,0 0,9 3,0 0,2 1,0 0,-2 3,0 0,-9 -3,0 0,-2 -1,0 z M 4,9 9,9 9,14 4,14 4,9 Z m 9,0 5,0 0,7 -5,0 0,-7 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+       style="fill:#ffffff;fill-opacity:1;enable-background:new"
+       id="g4159"
+       transform="translate(2.0000004,1034.3622)">
+      <g
+         transform="translate(-505.00033,39.003359)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="actions"
+         id="layer12">
+        <g
+           transform="translate(-0.99999043,1.748291e-6)"
+           id="g4514"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             id="rect4438"
+             transform="translate(506.00032,-39.003361)"
+             d="m 2.5,1 0,2 -1.5,0 0,4 1.5,0 0,2 -1.5,0 0,4 1.5,0 0,2 2,0 0,-2 L 6,13 6,9 4.5,9 4.5,7 6,7 6,3 4.5,3 l 0,-2 -2,0 z m 9,0 0,2 -1.5,0 0,4 1.5,0 0,2 -1.5,0 0,4 1.5,0 0,2 2,0 0,-2 1.5,0 0,-4 -1.5,0 0,-2 1.5,0 0,-4 -1.5,0 0,-2 -2,0 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>

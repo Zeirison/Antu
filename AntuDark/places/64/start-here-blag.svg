@@ -17,7 +17,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="distributor-logo-blag.svg">
+   sodipodi:docname="start-here-blag.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -339,7 +339,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.14"
-     inkscape:cx="-33.65035"
+     inkscape:cx="-46.898833"
      inkscape:cy="15.670929"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -467,7 +467,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -651,7 +651,7 @@
            id="g4844"
            transform="translate(-50.440681,-48.406776)">
           <path
-             style="fill:#000000;fill-opacity:0.77777782;stroke-width:1.31742239;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#000000;fill-opacity:0.59022558;stroke-width:1.31742239;stroke-miterlimit:4;stroke-dasharray:none"
              sketch:type="MSShapeGroup"
              id="path2034-0"
              d="m 146.3004,41.87819 c 0,-0.373098 -0.28215,-0.604938 -0.84717,-0.695698 l -7.59126,-1.103885 -3.4026,-6.880897 c -0.19137,-0.413374 -0.43861,-0.619965 -0.74098,-0.619965 -0.30237,0 -0.54943,0.206591 -0.741,0.619965 l -3.40277,6.880897 -7.59163,1.103885 c -0.56448,0.09072 -0.8468,0.3226 -0.8468,0.695698 0,0.211792 0.12599,0.453842 0.37811,0.725957 l 5.50471,5.353441 -1.30044,7.561378 c -0.0202,0.141258 -0.0303,0.242241 -0.0303,0.302565 0,0.211791 0.0529,0.39054 0.1587,0.536986 0.1058,0.14628 0.26451,0.219228 0.4763,0.219228 0.18153,0 0.38312,-0.06018 0.60494,-0.181355 l 6.78994,-3.569268 6.79051,3.569268 c 0.21197,0.121006 0.41355,0.181355 0.60475,0.181355 0.20213,0 0.35564,-0.07271 0.46144,-0.219228 0.10567,-0.146268 0.15852,-0.325195 0.15852,-0.536986 0,-0.131049 -0.005,-0.23184 -0.0152,-0.302565 l -1.30064,-7.561378 5.4895,-5.353441 C 146.1695,42.342049 146.30037,42.1 146.30037,41.87819 l 0,0 z"

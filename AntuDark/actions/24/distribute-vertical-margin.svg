@@ -248,19 +248,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="-4.9813988"
-     inkscape:cy="12.05466"
+     inkscape:cx="-9.2810105"
+     inkscape:cy="10.801386"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-7"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -321,13 +321,12 @@
     <g
        transform="translate(-52.85714,-5.71427)"
        id="layer1-7"
-       inkscape:label="Capa 1"
-       style="fill:#ffffff;fill-opacity:1">
+       inkscape:label="Capa 1">
       <path
-         inkscape:connector-curvature="0"
-         id="rect4109"
-         d="m 397.85714,543.07647 -1,0 -15,0 0,1 0,14 0,1 1,0 14,0 1,0 0,-16 z m -1,1 0,14 -14,0 0,-14 14,0 z m -3,1 -8,0 0,5 8,0 0,-5 z m 0,7 -8,0 0,5 8,0 0,-5 z m -1,-6 0,3 -6,0 0,-3 6,0 z m 0,7 0,3 -6,0 0,-3 6,0 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 381.85714,558.09991 c 0,0 0.0104,0.97656 1,0.97656 l 14.01758,0 c -0.017,0 0.98242,-0.007 0.98242,-1 l 0,-14 c 0,0 0.004,-1 -1,-1 l -14,0 c 0,0 -1,0.005 -1,1.01367 l 0,14.00977 z m 4,-1.02344 0,-5 8,0 0,5 -8,0 z m 0,-7 0,-5 8,0 0,5 -8,0 z"
+         id="path4190"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

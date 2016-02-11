@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,7 +18,16 @@
    viewBox="0 0 22 22"
    sodipodi:docname="distribute-vertical-top.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,18 +35,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.818182"
-     inkscape:cx="2.9053465"
-     inkscape:cy="12.020975"
+     inkscape:zoom="16.841998"
+     inkscape:cx="-10.447222"
+     inkscape:cy="12.188111"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -108,15 +118,71 @@
      id="layer1"
      transform="translate(1,-1031.3622)">
     <g
-       transform="translate(-379.85714,491.28573)"
-       id="layer1-8"
-       inkscape:label="Capa 1"
-       style="fill:#ffffff;fill-opacity:1">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4109-5"
-         d="m 397.85714,547.07647 -2,-3 -2,3 4,0 z m 0,2 -4,0 2,3 2,-3 z m -3,-6 -3,0 -6,0 -4,0 0,1 4,0 0,6 7,0 0,-6 2,0 0,-1 z m 0,9 -3,0 -8,0 -2,0 0,1 2,0 0,6 9,0 0,-6 2,0 0,-1 z m -3,-8 0,5 -5,0 0,-5 5,0 z m 0,9 0,5 -7,0 0,-5 7,0 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="enable-background:new;fill:#ffffff;fill-opacity:1"
+       id="g4166"
+       transform="matrix(1,0,0,-1,1.9999599,1050.3622)">
+      <g
+         transform="translate(-505.00033,39.003359)"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         inkscape:label="actions"
+         id="layer12">
+        <g
+           transform="matrix(0,-1,1,0,544.00373,481.99698)"
+           id="g4145"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             id="g4460"
+             style="fill:#ffffff;fill-opacity:1">
+            <rect
+               y="-38.003361"
+               x="505.00034"
+               height="14"
+               width="2"
+               id="rect4438"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+            <rect
+               y="-36.003361"
+               x="507.00034"
+               height="4"
+               width="5"
+               id="rect4440"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+               id="rect4442"
+               width="5"
+               height="4"
+               x="507.00034"
+               y="-30.003359" />
+          </g>
+          <g
+             transform="translate(8.9999943,1.748291e-6)"
+             style="display:inline;enable-background:new;fill:#ffffff;fill-opacity:1"
+             id="g4460-6">
+            <rect
+               y="-38.003361"
+               x="505.00034"
+               height="14"
+               width="2"
+               id="rect4438-7"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+            <rect
+               y="-36.003361"
+               x="507.00034"
+               height="4"
+               width="5"
+               id="rect4440-7"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+            <rect
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+               id="rect4442-1"
+               width="5"
+               height="4"
+               x="507.00034"
+               y="-30.003359" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>

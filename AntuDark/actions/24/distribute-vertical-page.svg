@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -239,6 +240,14 @@
          y="507.798"
          ry="15.999986" />
     </clipPath>
+    <linearGradient
+       id="linearGradient5606"
+       osb:paint="solid">
+      <stop
+         id="stop5608"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -248,19 +257,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="-7.344503"
-     inkscape:cy="12.05466"
+     inkscape:cx="-9.2810105"
+     inkscape:cy="10.801386"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-7"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -320,14 +329,32 @@
      transform="translate(-326,-534.3622)">
     <g
        transform="translate(-52.85714,-5.71427)"
-       id="layer1-5"
-       inkscape:label="Capa 1"
-       style="fill:#ffffff;fill-opacity:1">
+       id="layer1-7"
+       inkscape:label="Capa 1">
       <path
-         inkscape:connector-curvature="0"
-         id="rect4109"
-         d="m 397.85714,543.07647 -1,0 -15,0 0,1 0,11 1,1.33398 1.25,1.66602 0.75,1 12,0 1,0 0,-16 z m -1,1 0,14 -12,0 0,-3 -2,0 0,-11 14,0 z m -3,1 -8,0 0,5 8,0 0,-5 z m 0,7 -8,0 0,5 8,0 0,-5 z m -1,-6 0,3 -6,0 0,-3 6,0 z m 0,7 0,3 -6,0 0,-3 6,0 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 381.85714,558.09991 c 0,0 0.0104,0.97656 1,0.97656 l 14.01758,0 c -0.017,0 0.98242,-0.007 0.98242,-1 l 0,-14 c 0,0 0.004,-1 -1,-1 l -14,0 c 0,0 -1,0.005 -1,1.01367 l 0,14.00977 z m 2,-2.02344 0,-2 12,0 0,2 -12,0 z m 2,-6 0,-5 8,0 0,5 -8,0 z"
+         id="path4190"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(366.7675,-489.93536)"
+         id="layer1-4"
+         inkscape:label="Capa 1">
+        <g
+           transform="translate(0.02684778,2e-5)"
+           id="g4168">
+          <g
+             style="enable-background:new"
+             id="g4163"
+             transform="translate(2.4999983,1034.3622)">
+            <g
+               transform="translate(-405.00081,19.00334)"
+               style="display:inline"
+               inkscape:label="actions"
+               id="layer12" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>

@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="687"
+     inkscape:window-height="685"
      id="namedview75"
      showgrid="false"
      showborder="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="92.949154"
+     inkscape:cx="19.118645"
      inkscape:cy="6.6573779"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -50,17 +50,6 @@
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient4232">
-      <stop
-         id="stop4234-0"
-         offset="0"
-         style="stop-color:#3889e9;stop-opacity:1" />
-      <stop
-         id="stop4236"
-         offset="1"
-         style="stop-color:#5ea5fb;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        osb:paint="gradient"
        id="linearGradient4207">
@@ -74,46 +63,27 @@
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4422">
-      <stop
-         style="stop-color:#ff9300;stop-opacity:1"
-         offset="0"
-         id="stop4424" />
-      <stop
-         style="stop-color:#ffd702;stop-opacity:1"
-         offset="1"
-         id="stop4426" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4237"
-       x1="399.57144"
-       y1="545.79797"
-       x2="399.57144"
-       y2="517.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4180-0">
-      <stop
-         style="stop-color:#2b65bd;stop-opacity:1"
-         offset="0"
-         id="stop4182-2" />
-      <stop
-         style="stop-color:#64a3dc;stop-opacity:1"
-         offset="1"
-         id="stop4184-3" />
-    </linearGradient>
-    <linearGradient
        gradientTransform="matrix(0.13837079,0,0,0.13837079,187.05939,-36.549641)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4180-0"
+       xlink:href="#linearGradient4143"
        id="linearGradient4338"
        gradientUnits="userSpaceOnUse"
        x1="-318.57867"
        y1="653.95679"
        x2="-318.57867"
        y2="301.29816" />
+    <linearGradient
+       id="linearGradient4143"
+       inkscape:collect="always">
+      <stop
+         id="stop4145"
+         offset="0"
+         style="stop-color:#197cf1;stop-opacity:1" />
+      <stop
+         id="stop4147"
+         offset="1"
+         style="stop-color:#20bcfa;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <g
      id="g33" />
@@ -125,7 +95,7 @@
        cy="29.694916"
        cx="141.96611"
        id="path4217"
-       style="opacity:1;fill:url(#linearGradient4338);fill-opacity:1;stroke:none;stroke-width:15.44461155;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:url(#linearGradient4338);fill-opacity:1.0;stroke:none;stroke-width:15.44461155;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 137.96736,19.594485 c -0.84733,0.237796 -1.52941,1.183368 -1.52941,2.101963 l 0,14.562993 c -0.85922,-0.471069 -1.96267,-0.661554 -3.10668,-0.350242 -2.06434,0.561591 -3.35799,2.376678 -2.91549,4.053628 0.44254,1.676844 2.47613,2.61346 4.54054,2.051733 1.6469,-0.448026 2.7822,-1.71582 2.96322,-3.05268 l 0.0483,-13.762335 10.70601,-3.002706 0,10.859773 c -0.85921,-0.471099 -1.96265,-0.661569 -3.1067,-0.350363 -2.06432,0.561622 -3.35794,2.376799 -2.91545,4.053643 0.44255,1.676935 2.47614,2.613429 4.54049,2.051823 1.64694,-0.448026 2.78222,-1.715788 2.96327,-3.052664 l 0.0484,-17.916137 c 0,-0.688834 -0.40661,-1.204188 -0.95588,-1.301125 l -11.27954,3.052696 z"
        id="Music-0"

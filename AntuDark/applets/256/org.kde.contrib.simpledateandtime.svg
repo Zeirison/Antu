@@ -40,9 +40,9 @@
      id="namedview75"
      showgrid="false"
      showborder="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="-65.288136"
-     inkscape:cy="6.6573779"
+     inkscape:zoom="9.8333332"
+     inkscape:cx="16.370003"
+     inkscape:cy="29.767312"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -85,10 +85,10 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4191"
+       xlink:href="#linearGradient4503"
        id="linearGradient4222"
-       x1="409.57144"
-       y1="542.79797"
+       x1="409.75787"
+       y1="540.60236"
        x2="409.57144"
        y2="507.798"
        gradientUnits="userSpaceOnUse"
@@ -134,16 +134,16 @@
        x2="372.32303"
        y2="506.81985" />
     <linearGradient
-       id="linearGradient4191"
+       id="linearGradient4503"
        inkscape:collect="always">
       <stop
-         id="stop4193"
+         id="stop4505-8"
          offset="0"
-         style="stop-color:#2e3e46;stop-opacity:1" />
+         style="stop-color:#212121;stop-opacity:1" />
       <stop
-         id="stop4195"
+         id="stop4507"
          offset="1"
-         style="stop-color:#435a64;stop-opacity:1" />
+         style="stop-color:#3f3f41;stop-opacity:1" />
     </linearGradient>
   </defs>
   <g
@@ -152,7 +152,7 @@
      id="g4371"
      transform="translate(-30.915255,-23.186441)">
     <rect
-       style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1.0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4195"
        width="48"
        height="36.219646"

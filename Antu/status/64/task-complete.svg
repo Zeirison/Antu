@@ -3,6 +3,7 @@
 
 <svg
    xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -27,19 +28,30 @@
        x1="399.9939"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4181"
-       xlink:href="#linearGradient4844"
+       xlink:href="#linearGradient4422"
        inkscape:collect="always" />
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4844">
+       id="linearGradient4207"
+       osb:paint="gradient">
       <stop
-         style="stop-color:#3cc058;stop-opacity:1"
+         style="stop-color:#3498db;stop-opacity:1;"
          offset="0"
-         id="stop4846" />
+         id="stop3371" />
       <stop
-         style="stop-color:#2eff70;stop-opacity:1"
+         style="stop-color:#3498db;stop-opacity:0;"
          offset="1"
-         id="stop4848" />
+         id="stop3373" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4422">
+      <stop
+         style="stop-color:#2fae61;stop-opacity:1"
+         offset="0"
+         id="stop4424" />
+      <stop
+         style="stop-color:#4bdf88;stop-opacity:1"
+         offset="1"
+         id="stop4426" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -50,7 +62,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5355339"
-     inkscape:cx="-77.87959"
+     inkscape:cx="-37.219997"
      inkscape:cy="49.212046"
      inkscape:document-units="px"
      inkscape:current-layer="g4418"
@@ -61,9 +73,9 @@
      fit-margin-bottom="0"
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="634"
+     inkscape:window-height="685"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -146,7 +158,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
