@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="kamoso.svg">
+   sodipodi:docname="accessories-camera.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -104,28 +104,6 @@
          offset="1"
          id="stop4307-2" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4332"
-       id="linearGradient4330"
-       x1="595.57654"
-       y1="557.29376"
-       x2="594.14966"
-       y2="433.7688"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.2177903,0,0,0.2177903,-110.50098,-101.70343)" />
-    <linearGradient
-       id="linearGradient4332"
-       inkscape:collect="always">
-      <stop
-         id="stop4334"
-         offset="0"
-         style="stop-color:#222c35;stop-opacity:1" />
-      <stop
-         id="stop4336"
-         offset="1"
-         style="stop-color:#555f68;stop-opacity:1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -135,7 +113,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-61.383344"
+     inkscape:cx="6.5"
      inkscape:cy="15.968792"
      inkscape:document-units="px"
      inkscape:current-layer="g4182"
@@ -145,9 +123,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="634"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -228,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,7 +249,7 @@
                id="path4380" />
             <g
                id="g4221"
-               transform="translate(35.000001,5.6144118e-7)">
+               transform="matrix(1.0437276,0,0,1.0437276,34.152777,-0.20973352)">
               <rect
                  style="display:inline;opacity:1;fill:url(#linearGradient4174);fill-opacity:1;stroke:none;stroke-width:5.89743567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
                  id="rect4166"
@@ -281,7 +259,7 @@
                  y="-7.3441162"
                  ry="13.357798" />
               <rect
-                 style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4330);stroke-width:1.28440428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.28440428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  id="rect4166-5"
                  width="26.715605"
                  height="26.715595"
