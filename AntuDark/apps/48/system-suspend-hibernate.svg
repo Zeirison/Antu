@@ -52,6 +52,15 @@
          id="stop3373" />
     </linearGradient>
     <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-7.895216"
+       x2="14.337673"
+       y1="55.641636"
+       x1="15.883406"
+       id="linearGradient4224"
+       xlink:href="#linearGradient4227-2"
+       inkscape:collect="always" />
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4232"
        id="linearGradient4267"
@@ -71,91 +80,6 @@
          style="stop-color:#6c7884;stop-opacity:1"
          id="stop4231-4" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4298"
-       x1="399.57144"
-       y1="545.79797"
-       x2="399.57144"
-       y2="517.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4294"
-       x1="399.57144"
-       y1="545.79797"
-       x2="399.57144"
-       y2="517.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="517.79797"
-       x2="399.57144"
-       y1="545.79797"
-       x1="399.57144"
-       id="linearGradient4363"
-       xlink:href="#linearGradient4232"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4303"
-       x1="399.57144"
-       y1="545.79797"
-       x2="399.57144"
-       y2="517.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4276"
-       x1="399.57144"
-       y1="545.79797"
-       x2="399.57144"
-       y2="517.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="517.79797"
-       x2="399.57144"
-       y1="545.79797"
-       x1="399.57144"
-       id="linearGradient4295"
-       xlink:href="#linearGradient4232"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient4304-0">
-      <stop
-         id="stop4306-4"
-         style="stop-color:#dbdada;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4308-9"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4268">
-      <stop
-         offset="0"
-         style="stop-color:#e4e2e2;stop-opacity:1"
-         id="stop4270" />
-      <stop
-         offset="1"
-         style="stop-color:#fcf9f9;stop-opacity:1"
-         id="stop4272" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4274"
-       x1="399.57144"
-       y1="545.79797"
-       x2="399.57144"
-       y2="517.79797"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -165,7 +89,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0548154"
-     inkscape:cx="-57.048725"
+     inkscape:cx="-70.884422"
      inkscape:cy="29.975118"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -175,9 +99,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="687"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -425,7 +349,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="m 12.2,15.267 c 0,-3.322 0.896,-6.43 2.448,-9.113 C 15.024,5.505 14.457,4.703 13.73,4.889 5.35,7.041 -0.711,14.961 0.067,24.179 0.803,32.88 7.835,39.982 16.53,40.796 c 6.033,0.565 11.517,-1.811 15.221,-5.848 0.5,-0.546 0.073,-1.432 -0.666,-1.401 C 30.889,33.556 30.69,33.56 30.491,33.56 20.389,33.56 12.2,25.371 12.2,15.267 Z m 34.924912,7.772636 A 31.088175,31.088175 0 0 1 16.036732,54.127815 31.088175,31.088175 0 0 1 -15.051447,23.039636 31.088175,31.088175 0 0 1 16.036732,-8.0485437 31.088175,31.088175 0 0 1 47.124912,23.039636 Z"
-                                   style="fill:#ffffff;fill-opacity:1"
+                                   style="fill:url(#linearGradient4224);fill-opacity:1"
                                    id="path6569" />
                                 </g>
                                 </g>

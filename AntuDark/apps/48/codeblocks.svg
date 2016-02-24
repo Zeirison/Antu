@@ -116,7 +116,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-70.338932"
+     inkscape:cx="-20.463932"
      inkscape:cy="15.968792"
      inkscape:document-units="px"
      inkscape:current-layer="g4370"
@@ -126,7 +126,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="687"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -209,7 +209,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,7 +271,7 @@
                style="opacity:1;fill:url(#linearGradient4583);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.76384115px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
           </g>
           <path
-             style="opacity:1;fill:#ffffff;fill-opacity:0.89723319"
+             style="opacity:0.9;fill:#ffffff;fill-opacity:0.84962404"
              sketch:type="MSShapeGroup"
              id="Developer"
              d="m 59.998093,-14.963247 0.189635,0.04011 c 2.206904,-0.732652 7.160046,2.153213 6.056593,4.725106 -0.2796,0.4037147 -0.232217,1.1214356 0.104915,1.5725326 l -6.193908,6.185473 c -0.347023,-0.346423 -1.118453,-0.338948 -1.472984,0 L 48.43905,7.3739956 c -0.933738,0.894686 -0.199663,1.654767 0.194777,2.056013 l 1.837425,1.8342184 c 0.401983,0.398692 1.463006,0.937013 2.21695,0.139715 L 62.354775,1.2335566 c 0.337063,-0.35389796 0.339583,-1.11401396 0,-1.46288796 0,0 0.0051,-0.0051 0,-0.0051 l 6.218902,-6.20542804 c 0.65659,0.590658 1.276716,0.641709 1.864956,0.481012 1.136058,-0.310389 1.76935,0.799132 2.449099,1.609921 l -0.30708,0.301526 c -0.454372,0.458572 -0.411943,1.231115 0.09737,1.739504 0.50928,0.508423 1.285715,0.550784 1.740104,0.09737 l 2.032167,-2.026133 c 0.45434,-0.458596 0.411945,-1.231174 -0.09977,-1.737077 -0.459344,-0.46104 -1.125927,-0.520869 -1.59031,-0.191828 -1.393064,-1.56007 -0.661561,-1.794345 -2.499036,-3.8254319 l -3.442752,-3.5114257 c -2.47903,-2.427327 -5.699593,-2.424842 -8.820264,-1.460384 l 0,0 z"

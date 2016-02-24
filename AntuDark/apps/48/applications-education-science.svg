@@ -27,14 +27,14 @@
          offset="0"
          id="stop4338" />
       <stop
-         style="stop-color:#d23cff;stop-opacity:1"
+         style="stop-color:#db50c8;stop-opacity:1"
          offset="1"
          id="stop4340" />
     </linearGradient>
     <linearGradient
        id="linearGradient4329">
       <stop
-         style="stop-color:#d23cff;stop-opacity:1"
+         style="stop-color:#db50c8;stop-opacity:1"
          offset="0"
          id="stop4331" />
       <stop
@@ -57,18 +57,18 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4329"
        id="linearGradient5007"
-       x1="402.48508"
+       x1="396.77542"
        y1="518.34387"
-       x2="401.18591"
-       y2="545.31073"
+       x2="396.77542"
+       y2="544.98895"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0161292,0,0,1.0161292,-6.5084643,-8.6248786)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4335"
        id="linearGradient4342"
-       x1="401.18591"
-       y1="545.31073"
+       x1="403.43668"
+       y1="544.98895"
        x2="402.48508"
        y2="518.34387"
        gradientUnits="userSpaceOnUse"
@@ -90,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.132928"
-     inkscape:cx="12.521415"
-     inkscape:cy="25.44372"
+     inkscape:zoom="4.2896378"
+     inkscape:cx="27.945493"
+     inkscape:cy="15.393947"
      inkscape:document-units="px"
      inkscape:current-layer="g5011"
      showgrid="true"
@@ -101,13 +101,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="685"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false"
+     showguides="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true"
@@ -156,7 +156,7 @@
        orientation="0,14.000031"
        id="guide4431" />
     <sodipodi:guide
-       position="30,2.0000264"
+       position="23.000042,10.000271"
        orientation="-14,0"
        id="guide4433" />
     <sodipodi:guide
@@ -172,7 +172,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
