@@ -28,7 +28,7 @@
        y1="542.79797"
        x1="409.57144"
        id="linearGradient4222"
-       xlink:href="#linearGradient4143"
+       xlink:href="#linearGradient4227-2"
        inkscape:collect="always" />
     <linearGradient
        osb:paint="gradient"
@@ -53,18 +53,6 @@
          style="stop-color:#6c7884;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4143">
-      <stop
-         style="stop-color:#197cf1;stop-opacity:1"
-         offset="0"
-         id="stop4145" />
-      <stop
-         style="stop-color:#20bcfa;stop-opacity:1"
-         offset="1"
-         id="stop4147" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,7 +62,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="-27.054036"
+     inkscape:cx="7.3290313"
      inkscape:cy="17.564187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-37"
@@ -184,7 +172,7 @@
            id="g4172"
            transform="matrix(1.5763602,0,0,1.5763602,-195.63497,-320.05135)">
           <rect
-             style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1.0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="rect4195"
              width="46.302639"
              height="34.938858"

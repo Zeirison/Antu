@@ -50,7 +50,7 @@
        y1="542.79797"
        x1="409.57144"
        id="linearGradient4222"
-       xlink:href="#linearGradient4143"
+       xlink:href="#linearGradient4227-1"
        inkscape:collect="always" />
     <linearGradient
        osb:paint="gradient"
@@ -73,29 +73,6 @@
        id="linearGradient4385"
        xlink:href="#linearGradient4303-6-0"
        inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient4227-2">
-      <stop
-         id="stop4229-9"
-         style="stop-color:#566069;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4231-4"
-         style="stop-color:#6c7884;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4143"
-       inkscape:collect="always">
-      <stop
-         id="stop4145"
-         offset="0"
-         style="stop-color:#197cf1;stop-opacity:1" />
-      <stop
-         id="stop4147"
-         offset="1"
-         style="stop-color:#20bcfa;stop-opacity:1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -105,10 +82,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="-38.313785"
+     inkscape:cx="-3.9307178"
      inkscape:cy="21.213041"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-9"
+     inkscape:current-layer="g4447"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -217,7 +194,7 @@
                id="g4403"
                transform="translate(51.385479,-6.0099446)">
               <rect
-                 style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1.0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  id="rect4195"
                  width="46.302639"
                  height="34.938858"
@@ -292,10 +269,6 @@
             </g>
           </g>
         </g>
-        <g
-           transform="matrix(0.9646383,0,0,0.9646383,-98.003905,25.12365)"
-           id="layer1-9"
-           inkscape:label="Capa 1" />
       </g>
     </g>
   </g>

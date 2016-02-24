@@ -71,13 +71,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.4687506"
-     inkscape:cx="9.2693788"
+     inkscape:cx="1.3443989"
      inkscape:cy="21.608015"
      inkscape:document-units="px"
-     inkscape:current-layer="g4452"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="687"
+     inkscape:window-height="685"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -121,21 +121,21 @@
     </g>
     <g
        id="g3"
-       transform="matrix(0.40994157,0,0,0.40994157,2.9995133,1007.362)"
-       style="fill:#ffffff;fill-opacity:0.85338348">
+       transform="matrix(0.35137849,0,0,0.35137849,5.9995827,1010.362)"
+       style="fill:#ffffff;fill-opacity:0.8533835">
       <g
          id="g5"
-         style="fill:#ffffff;fill-opacity:0.85338348">
+         style="fill:#ffffff;fill-opacity:0.8533835">
         <path
            d="m 61.977,17.156 -13.7,13.699 c -0.789,0.79 -2.074,0.79 -2.866,0 l -0.197,-0.202 0,-10.085 c -16.543,1.156 -29.65,14.975 -29.65,31.806 0,11.82 6.487,22.617 16.937,28.175 2.631,1.402 3.631,4.671 2.233,7.31 -1.403,2.635 -4.671,3.634 -7.306,2.231 C 13.445,82.65 4.758,68.201 4.758,52.374 4.758,29.582 22.711,10.904 45.215,9.733 l 0,-8.941 0.197,-0.199 c 0.792,-0.79 2.077,-0.79 2.866,0 l 13.699,13.696 c 0.794,0.794 0.794,2.08 0,2.867 z"
            id="path7"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:0.85338348" />
+           style="fill:#ffffff;fill-opacity:0.8533835" />
         <path
            d="M 54.174,101.861 40.477,88.166 c -0.792,-0.79 -0.792,-2.074 0,-2.864 L 54.174,71.607 c 0.791,-0.794 2.074,-0.794 2.868,0 l 0.191,0.198 0.007,10.082 c 16.536,-1.154 29.65,-14.969 29.65,-31.803 0,-11.82 -6.491,-22.614 -16.939,-28.175 -2.635,-1.4 -3.635,-4.675 -2.234,-7.31 1.406,-2.635 4.678,-3.634 7.312,-2.231 13.979,7.44 22.669,21.892 22.669,37.716 0,22.794 -17.953,41.469 -40.457,42.636 l 0,8.942 -0.198,0.198 c -0.795,0.792 -2.078,0.792 -2.869,0.001 z"
            id="path9"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:0.85338348" />
+           style="fill:#ffffff;fill-opacity:0.8533835" />
       </g>
     </g>
   </g>

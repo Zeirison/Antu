@@ -45,6 +45,18 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4143">
+      <stop
+         style="stop-color:#197cf1;stop-opacity:1"
+         offset="0"
+         id="stop4145" />
+      <stop
+         style="stop-color:#20bcfa;stop-opacity:1"
+         offset="1"
+         id="stop4147" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient4227-3"
        id="linearGradient4233"
        gradientUnits="userSpaceOnUse"
@@ -55,7 +67,7 @@
        y2="507.798" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4268"
+       xlink:href="#linearGradient4143"
        id="linearGradient4300"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0523327,0,0,1.0276135,-21.151387,-14.039869)"
@@ -63,39 +75,6 @@
        y1="542.79797"
        x2="409.57144"
        y2="507.798" />
-    <linearGradient
-       id="linearGradient4232">
-      <stop
-         style="stop-color:#3889e9;stop-opacity:1"
-         offset="0"
-         id="stop4234-0" />
-      <stop
-         style="stop-color:#5ea5fb;stop-opacity:1"
-         offset="1"
-         id="stop4236" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4304-0">
-      <stop
-         id="stop4306-4"
-         style="stop-color:#dbdada;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4308-9"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4268">
-      <stop
-         offset="0"
-         style="stop-color:#e4e2e2;stop-opacity:1"
-         id="stop4270" />
-      <stop
-         offset="1"
-         style="stop-color:#fcf9f9;stop-opacity:1"
-         id="stop4272" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -105,7 +84,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="-15.849811"
+     inkscape:cx="-17.456706"
      inkscape:cy="23.645749"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -295,7 +274,7 @@
                        height="34.938858"
                        width="46.302639"
                        id="rect4195-8"
-                       style="opacity:1;fill:url(#linearGradient4300);fill-opacity:1.0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                       style="opacity:1;fill:url(#linearGradient4300);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                     <g
                        transform="matrix(0.62864378,0,0,0.62864378,142.14515,190.58971)"
                        style="fill:#ffffff;fill-opacity:0.84693879"
@@ -308,19 +287,19 @@
                            cy="518.737"
                            cx="373.36642"
                            id="path4224-3"
-                           style="opacity:1;fill:#687480;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                           style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                         <circle
                            r="2.25"
                            cy="518.78473"
                            cx="367.8389"
                            id="path4224-4-4"
-                           style="opacity:1;fill:#687480;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                           style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                         <circle
                            r="2.25"
                            cy="518.83801"
                            cx="362.40543"
                            id="path4224-8-0"
-                           style="opacity:1;fill:#687480;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                           style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                       </g>
                     </g>
                   </g>

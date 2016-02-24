@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -16,9 +15,20 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-contact-list.svg">
+   sodipodi:docname="system-users.svg">
   <defs
      id="defs5455">
+    <linearGradient
+       id="linearGradient4422">
+      <stop
+         style="stop-color:#197ff1;stop-opacity:1"
+         offset="0"
+         id="stop4424" />
+      <stop
+         style="stop-color:#21c6fb;stop-opacity:1"
+         offset="1"
+         id="stop4426" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4232">
       <stop
@@ -41,36 +51,13 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4180-0"
+       xlink:href="#linearGradient4422"
        id="linearGradient4181"
        gradientUnits="userSpaceOnUse"
        x1="399.9939"
        y1="545.13873"
        x2="399.9939"
        y2="518.13873" />
-    <linearGradient
-       id="linearGradient4207"
-       osb:paint="gradient">
-      <stop
-         style="stop-color:#3498db;stop-opacity:1;"
-         offset="0"
-         id="stop3371" />
-      <stop
-         style="stop-color:#3498db;stop-opacity:0;"
-         offset="1"
-         id="stop3373" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4180-0">
-      <stop
-         style="stop-color:#2b65bd;stop-opacity:1"
-         offset="0"
-         id="stop4182-8" />
-      <stop
-         style="stop-color:#64a3dc;stop-opacity:1"
-         offset="1"
-         id="stop4184-4" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -80,7 +67,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
-     inkscape:cx="-3.5762021"
+     inkscape:cx="-43.283302"
      inkscape:cy="15.685913"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -90,9 +77,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="635"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -214,7 +201,7 @@
                      inkscape:label="Capa 1"
                      id="layer1-3">
                     <circle
-                       style="opacity:1;fill:url(#linearGradient4181);fill-opacity:1.0;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                       style="opacity:1;fill:url(#linearGradient4181);fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                        id="path3377"
                        cx="400.57138"
                        cy="531.79791"
