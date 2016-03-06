@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Antu
+Comment=Antu decoration
+
+X-Plasma-MainScript=main.qml
+X-Plasma-ServiceType=KWin/Decoration
+X-KDE-PluginInfo-Author=Fabián Alexis
+X-KDE-PluginInfo-Email=fabian.alexis@openmailbox.org
+X-KDE-PluginInfo-Name=antu
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Decoration
+Type=Service
