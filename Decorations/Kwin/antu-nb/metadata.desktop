@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Antü No Borders
+Comment=Antü decoration theme (no borders version)
+
+
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Author=Fabián Alexis
+X-KDE-PluginInfo-Email=fabian.alexis@openmailbox.org
+X-KDE-PluginInfo-Name=antu-nb
+X-KDE-PluginInfo-Version=1.1
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Decoration
+X-KWin-Config-TranslationDomain=kwin_clients
+Type=Service
+
