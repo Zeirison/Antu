@@ -12,7 +12,7 @@
 # terms of the Do What The Fuck You Want To Public License, Version 2,
 # as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
 
-git_antu=https://github.com/fabianalexisinostroza/Antu
+git_antu=https://github.com/Zeirison/Antu
 
 mkdir -p $HOME/.local/share/tmp || exit 1
 cd $HOME/.local/share/tmp || exit 1
